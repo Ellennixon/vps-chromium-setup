@@ -42,7 +42,7 @@ for ((i=1; i<=container_count; i++)); do
     environment:
       - PUID=1000
       - PGID=1000
-      - TZ=Etc/UTC
+      - TZ=Europe/Berlin
       - CUSTOM_USER=${custom_user}
       - PASSWORD=${password}
     ports:
