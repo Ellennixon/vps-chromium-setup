@@ -9,7 +9,7 @@ This script sets up multiple Chromium containers on your VPS using Docker. The n
 ```bash
 chmod +x chromium.sh
 
-
+```
 ### 2️⃣ Run
 
 ```bash
